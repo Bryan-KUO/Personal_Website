@@ -1,0 +1,8 @@
+觀看網址 於git雲端
+https://Bryan-KUO.github.io/my-profile/
+
+更新上git方式
+修改程式碼 → git add . → git commit -m "更新說明" → git push
+
+20250910
+建立基礎架構
