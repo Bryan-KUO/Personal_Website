@@ -1,9 +1,9 @@
 // TODO: 填寫你的資料 — 只改這一段 PROFILE
 const PROFILE = {
-  name: "王小明",
-  headline: "全端工程師",
+  name: "郭竺恩",
+  headline: "軟體工程師",
   tagline: "熱愛學習與創作，記錄成長的開發者",
-  location: "台北，台灣",
+  location: "台灣，高雄",
   avatar: "images/avatar.jpg",
   chips: ["程式設計", "作品集", "自我成長"],
 
